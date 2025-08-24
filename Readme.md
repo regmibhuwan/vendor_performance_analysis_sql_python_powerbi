@@ -2,7 +2,6 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Vendor Performance Analysis – Retail Inventory & Sales</title>
 </head>
 <body>
 
