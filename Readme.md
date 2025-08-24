@@ -117,14 +117,17 @@ vendor-performance-analysis/
     <li>Hypothesis Testing: Statistically significant difference in profit margins → distinct vendor strategies</li>
 </ul>
 
-<h2 id="dashboard">Dashboard</h2>
-<p>Power BI Dashboard shows:</p>
-<ul>
-    <li>Vendor-wise Sales and Margins</li>
-    <li>Inventory Turnover</li>
-    <li>Bulk Purchase Savings</li>
-    <li>Performance Heatmaps</li>
-    <li><a href="dashboard/vendor_performance_dashboard.pbix">Vendor Performance Dashboard</a></li>
+## Dashboard  
+
+Power BI Dashboard shows:  
+
+- Vendor-wise Sales and Margins  
+- Inventory Turnover  
+- Bulk Purchase Savings  
+- Performance Heatmaps  
+
+![Vendor Performance Dashboard](images/dashboard.png)   
+
 </ul>
 
 <h2 id="how-to-run">How to Run This Project</h2>
